@@ -53,7 +53,7 @@ ChatBug là ứng dụng chat thời gian thực được xây dựng với Reac
 
 1. Clone repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/minh6869/ChatBug.git
 cd ChatBug
 ```
 
